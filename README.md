@@ -1,7 +1,7 @@
 Hi there,
 
 
-As I don't like much talking about myself, I will just say here that I am a brazilian physics student which created a github profile to organize his college stuff.
+Since I don't like too much talking, I will just say here that I am a brazilian physics student (that likes coding) which created a github profile to organize his college stuff.
 Nothing special, nothing too focusing on the coding as a computer science student would probably do, not too professional as well. Perhaps,
 in time, I might as well learn some other programming languages. For now, I am just learning C and LaTeX for college purposes, but I'm truly planning to study other languages
 (e.g., Python, Lua and so on)
