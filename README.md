@@ -9,7 +9,7 @@ in time, I might as well learn some other programming languages. For now, I am j
 As you can see, I can speak english but my comments on the codes were/are written all in portuguese (since I had to send in portuguese to the professor), but I may be able
 to handle both english and portuguese (and also spanish if needed). 
 
-![test](https://i.imgur.com/VyPGFH7.png) ![test2](https://i.imgur.com/jftdTUb.png) ![test3](https://i.imgur.com/qiYTCIw.jpg) ![test4](https://i.imgur.com/GcES0FL.png)
+![test](https://i.imgur.com/l6Mfyrw.png) ![test2](https://i.imgur.com/jftdTUb.png) ![test3](https://i.imgur.com/c7FIJIB.png) ![test4](https://i.imgur.com/GcES0FL.png)
 
 
 
