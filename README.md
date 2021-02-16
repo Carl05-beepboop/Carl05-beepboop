@@ -1,4 +1,4 @@
-Hi there,
+**Hi there**,
 
 
 Since I don't like too much talking, I will just say here that I am a brazilian physics student (that likes coding) which created a github profile to organize my college stuff.
