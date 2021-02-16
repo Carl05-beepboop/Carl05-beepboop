@@ -6,7 +6,7 @@ Nothing special, nothing too focusing on the coding as a computer science studen
 in time, I might as well learn some other programming languages. For now, I am just learning C and LaTeX for college purposes, but I'm truly planning to study other languages
 (e.g., Python, Lua and so on)
 
-As you can see, I can speak english but my comments on the codes were/are written all in portuguese (since I had to send in portuguese to the professor), but I may be able
+As you may have noticed, I can speak english but my comments on the codes were/are written all in portuguese (since I had to send in portuguese to the professor), but I may be able
 to handle both english and portuguese (and also spanish if needed). 
 
 ![test](https://i.imgur.com/l6Mfyrw.png) ![test2](https://i.imgur.com/jaFSNo6.png) ![test3](https://i.imgur.com/c7FIJIB.png) ![test4](https://i.imgur.com/GcES0FL.png)
