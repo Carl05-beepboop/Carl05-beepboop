@@ -1,4 +1,6 @@
-**Hi there**,
+**INTRODUCTION**
+
+Hi there,
 
 
 Since I don't like too much talking, I will just say here that I am a brazilian physics student (that likes coding) which created a github profile to organize my college stuff.
@@ -13,7 +15,7 @@ As you may have noticed, I can speak english but my comments on the codes were/a
 to handle both english and portuguese (and also spanish if needed). 
 
 
-**LEARNING:**
+**LEARNING**
 
 ![C](https://i.imgur.com/l6Mfyrw.png) ![LaTeX](https://i.imgur.com/BKQFSx0.png) ![MATLAB](https://i.imgur.com/EQOTmVH.png) ![Python](https://i.imgur.com/c7FIJIB.png) ![Lua](https://i.imgur.com/GcES0FL.png) ![Scratch](https://i.imgur.com/9VbWrGh.png)
 
