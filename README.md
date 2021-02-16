@@ -15,7 +15,7 @@ to handle both english and portuguese (and also spanish if needed).
 
 **LEARNING:**
 
-![C](https://i.imgur.com/l6Mfyrw.png) ![LaTeX](https://i.imgur.com/jaFSNo6.png) ![MATLAB](https://i.imgur.com/EQOTmVH.png) ![Python](https://i.imgur.com/c7FIJIB.png) ![Lua](https://i.imgur.com/GcES0FL.png) ![Scratch](https://i.imgur.com/9VbWrGh.png)
+![C](https://i.imgur.com/l6Mfyrw.png) ![LaTeX](https://i.imgur.com/BKQFSx0.png) ![MATLAB](https://i.imgur.com/EQOTmVH.png) ![Python](https://i.imgur.com/c7FIJIB.png) ![Lua](https://i.imgur.com/GcES0FL.png) ![Scratch](https://i.imgur.com/9VbWrGh.png)
 
 _From left to right:_ C, LaTeX, MATLAB, Python, Lua and Scratch.
 
