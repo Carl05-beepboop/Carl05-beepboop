@@ -5,7 +5,7 @@ Hi there,
 
 Since I don't like too much talking, I will just bring up here a couple of essencial information so that you might understand why this profile was created.
 
-I am a brazilian physics student (that likes coding) which created a github profile to organize my college stuff. Nothing special, nothing too focusing on the coding as a computer science student would probably do and not professional as well. Perhaps, in time, I might as well learn some other programming languages. For now, I am just learning C and LaTeX for college purposes, but I'm truly planning to study other languages (e.g., Python, Lua, MATLAB and so on).
+I am a brazilian physics student (that likes coding) which created a github profile to set up my college stuff. Nothing special, nothing too focusing on the coding as a computer science student would probably do and not professional as well. Perhaps, in time, I might as well learn some other programming languages. For now, I am just learning C and LaTeX for college purposes, but I'm truly planning to study other languages (e.g., Python, Lua, MATLAB and so on).
 
 My main goals with the programming languages is to try to solve problems (and this is connected to my graduation in general), improve my computational thoughts (which I consider
 an abstract area) and also to have some fun programming somehow cool ideas that comes to mind eventually. xD
