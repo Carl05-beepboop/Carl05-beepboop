@@ -10,6 +10,8 @@ My main goals with programming are to solve problems related to my degree, impro
 
 As you may have noticed, the comments in my code may have been written in Portuguese, however, I can handle both English and Portuguese — and even Spanish if really needed!
 
+I am currently a M.S. Student in Computer Science (PPGCC/UFSCar) at the Biomedical Image Processing Group. Looking forward to contributing more to this repo soon!
+
 
 **WISH-TO-LEARN LIST:**
 
