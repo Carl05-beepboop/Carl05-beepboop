@@ -4,7 +4,7 @@ Hi there,
 
 I’ll just share a few essential details so you can understand why this profile was created.
 
-I am a Brazilian physics student (who enjoys coding) and I created this GitHub profile to organize my college projects. It’s nothing fancy — not as code-focused as a computer science student’s profile, nor is it professional yet. Over time, I hope to learn more programming languages.
+I am a Brazilian physicist and I created this GitHub profile to organize my coding projects. It’s nothing fancy — not as code-focused as a computer scientist's profile, nor is it professional yet. Over time, I hope to take more studies on programming so I might add up more stuff here.
 
 My main goals with programming are to solve problems related to my degree, improve my computational thinking, and have some fun coding cool ideas that come to mind.
 
