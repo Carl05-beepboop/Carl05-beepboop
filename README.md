@@ -17,7 +17,6 @@ I am currently a M.S. Student in Computer Science (PPGCC/UFSCar) at the Biomedic
 
 ![C](https://i.imgur.com/l6Mfyrw.png) ![Python](https://i.imgur.com/c7FIJIB.png) ![LaTeX](https://i.imgur.com/BKQFSx0.png) 
 
-![teste](https://freeimage.host/i/BrfP15X)
 
 
 
